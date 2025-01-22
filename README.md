@@ -1,3 +1,3 @@
 # Restaurant-Page
 
-[Live demo](https://elkcloner08.github.io/Restaurant-Page/)
+[Live demo](https://mendozagianfranco.github.io/Restaurant-Page/)
